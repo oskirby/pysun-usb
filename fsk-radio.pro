@@ -1,4 +1,4 @@
-update=Wed 26 Jul 2017 10:46:08 AM PDT
+update=Sat 26 Aug 2017 01:51:44 PM PDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,13 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=/home/osk/Documents/PCB/fsk-parts/fsk-parts
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
