@@ -1,4 +1,4 @@
-update=Sat 26 Aug 2017 01:51:44 PM PDT
+update=Thu 05 Apr 2018 11:51:26 AM PDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,6 +59,7 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=/home/osk/Documents/PCB/fsk-parts/fsk-parts
+LibName31=switches
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
