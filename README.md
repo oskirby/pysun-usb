@@ -7,8 +7,6 @@ into a single antenna port using an RF diplexer.
 
 This board is released as an Open Source Hardware project, including the full PCB design files from KiCAD.
 
-![PySUN PCB Render](fsk-radio.png)
-
 Features
 -----------
 Attached to the STM32F4 microcontroller, are the following peripherals:
@@ -25,3 +23,5 @@ Castellated edges are provided, exposing:
 * RF215 FEA and FEB outputs
 
 Power is provided by a 2MHz synchronous buck regulator and the clock reference is provided from a 26MHz TCXO.
+
+![PySUN PCB Render](fsk-radio.png)
